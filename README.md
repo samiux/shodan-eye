@@ -1,8 +1,8 @@
 # **Shodan Eye - Security Search Engine**
 
-Shodan Eye is Shodan.io Search Engine API which is for searching devices in the internet.  Shodan Eye is forked from [Ms Jolanda de Koff's Shodan Eye v1.2.0](https://github.com/BullsEye0/shodan-eye) which is written in Python 2.7.x.
+Shodan Eye is [Shodan.io Search Engine](https://shodan.io) API which is for searching devices in the internet.  Shodan Eye 3 is forked from [Ms Jolanda de Koff's Shodan Eye v1.2.0](https://github.com/BullsEye0/shodan-eye) which is written in Python 2.7.x.
 
-Samiux modified it to Python 3.7.x and enhanced some features as well as fixed some minor bugs.  This fork version is provided a free API Key for all users.
+Samiux modified it to Python 3.7.x and enhanced some features as well as fixed some minor bugs.  This fork version is provided a free and limited features API Key for all users.
 
 This forked Shodan Eye is released under GPLv3 by Samiux.
 

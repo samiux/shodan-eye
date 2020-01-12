@@ -15,9 +15,6 @@ sudo apt install python3-shodan git
 
 git clone https://github.com/samiux/shodan-eye
 
-cd shodan-eye
-
-python3 shodan_eye.py
 ```
 
 ## Change Log
@@ -35,3 +32,10 @@ Released on OCT 05, 2019 GMT+8
 Released on OCT 10, 2019 GMT+8  
 [+] Minor modification  
 
+## Usage
+
+```bash
+cd shodan-eye
+
+python3 shodan_eye.py
+```

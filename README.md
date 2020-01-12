@@ -17,7 +17,8 @@ git clone https://github.com/samiux/shodan-eye3
 
 cd shodan-eye3
 
-python3 shodan_eye3.py```
+python3 shodan_eye3.py
+```
 
 ## Change Log
 
